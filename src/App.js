@@ -3,14 +3,15 @@ import './App.css';
 
 //image array
 const images = [
-  { id: '1', imageName: '013_beinn_dòrain.JPG', tag: 'free' },
-  { id: '2', imageName: '016_buachaille_etive_mòr.JPG', tag: 'free' },
-  { id: '3', imageName: '027_eigg_and_rùm_from_camusdarach.JPG', tag: 'free' },
-  { id: '4', imageName: '123_binnian_summit_view.JPG', tag: 'free' },
-  { id: '5', imageName: '271_lough_gouragh.JPG', tag: 'free' },
-  { id: '6', imageName: 'DSC_0508.JPG', tag: 'new' },
-  { id: '7', imageName: 'DSC_0562.JPG', tag: 'new' },
-  { id: '8', imageName: 'DSC_0682edit1.JPG', tag: 'new' }
+  { id: '1', imageName: 'beinn_dòrain.jpg', tag: 'free' },
+  { id: '2', imageName: 'buachaille_etive_mòr.jpg', tag: 'free' },
+  { id: '3', imageName: 'eigg_and_rùm_from_camusdarach.jpg', tag: 'free' },
+  { id: '4', imageName: 'binnian_summit_view.jpg', tag: 'free' },
+  { id: '5', imageName: 'lough_gouragh.jpg', tag: 'free' },
+  { id: '6', imageName: 'slieve_croob.jpg', tag: 'new' },
+  { id: '7', imageName: 'giants_causeway.jpg', tag: 'new' },
+  { id: '8', imageName: 'islay_and_jura.jpg', tag: 'new' },
+  { id: '9', imageName: 'raghtin_more.jpg', tag: 'new' }
 ];
 
 //application component
